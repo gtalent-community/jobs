@@ -2,7 +2,7 @@
     <img width="128" src="https://cdn.discordapp.com/icons/722949830200000574/9a27cf49917a67376ba4ac5b29c5265c.png?size=128" alt="G-Talent logo">
 </p>
 <p align="center">
-      <a href="https://discord.com/channels/722949830200000574/"><img src="https://img.shields.io/badge/discord-join-black" alt="G-Talent discord"></a>
+      <a href="https://discord.gg/rUA99Qd"><img src="https://img.shields.io/badge/discord-join-black" alt="G-Talent discord"></a>
       <a href="https://discord.com/channels/730052930547482686/"><img src="https://img.shields.io/badge/discord-G_Message-green" alt="G-Message discord"></a>
       <a href="https://discord.com/channels/731732731565703279/"><img src="https://img.shields.io/badge/discord-G_Fashion-blue" alt="G-fashion discord"></a>
       <a href="https://discord.com/channels/731732762708672602/"><img src="https://img.shields.io/badge/discord-G_Club-yellow" alt="G-Club discord"></a>
