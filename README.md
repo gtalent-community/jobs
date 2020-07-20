@@ -8,7 +8,7 @@
       <a href="https://discord.com/channels/731732762708672602/"><img src="https://img.shields.io/badge/discord-G_Club-yellow" alt="G-Club discord"></a>
 </p>
 
-# 欢迎来到 #🐎🐎job-posting-招兵買馬！
+# 欢迎来到🐎🐎job-posting-招兵買馬！
 
 战友们，如果你对GTV职位感兴趣，请点击：   
 <a href="https://discord.gg/rUA99Qd"><img src="https://img.shields.io/badge/discord-apply--for--job-green?logo=discord&style=for-the-badge" alt="G-Talent discord"></a>   
