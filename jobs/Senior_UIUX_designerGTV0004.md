@@ -1,4 +1,4 @@
-<h3 align="center">Senior UI&UX designer/资深 UI&UX 设计师</h2>
+<h3 align="center">Senior UI&UX designer/资深 UI&UX 设计师</h3>
 <p align="center">(GTV0004)</p>
   
 - Himalaya Believer.

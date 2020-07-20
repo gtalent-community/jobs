@@ -1,6 +1,6 @@
-<h3 align="center">WEB security engineer｜Web安全⼯程师</h2>
+<h3 align="center">WEB security engineer｜Web安全⼯程师</h3>
 <p align="center">(GTV0005)</p>
-  
+   
 - 精通渗透测试步骤、⽅法和流程。了解OWASP Top10的原理。
 - 精通Web安全攻防原理。熟练掌握SQL注⼊、XSS攻击、WAF绕过、命令注⼊、CSRF攻击、上传漏洞、解析漏洞等技术原理。
 - 精通诸如：burpsuit、fiddler、sqlmap、Metasploit等各种渗透测试⼯具。

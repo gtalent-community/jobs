@@ -1,4 +1,4 @@
-<h3 align="center">IOS Mobile Engineer | IOS移動端⼯程師</h2>
+<h3 align="center">IOS Mobile Engineer | IOS移動端⼯程師</h3>
 <p align="center">(GTV0006)</p>
   
 - 精通Object-C/C、swift语⾔，熟悉设计模式、数据结构、JSON相关技术。

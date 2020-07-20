@@ -1,4 +1,4 @@
-<h3 align="center">Senior Back-End Engineer/資深后端工程師</h2>
+<h3 align="center">Senior Back-End Engineer/資深后端工程師</h3>
 <p align="center">(GTV0002)</p>
   
 - Himalaya Believer
