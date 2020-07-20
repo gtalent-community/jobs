@@ -6,7 +6,7 @@
 
 Qualification：   
 
-- Bachelor’s degree or better in Computer Science.   
+- Bachelor' s degree or better in Computer Science.   
 - Full stack web/mobile application development.
 - 5+ years experience in using ReactJS, React Native, flutter or Vue.js.    
 - 5+ years experience of Javascript, HTML, CSS/SCSS/LESS.
