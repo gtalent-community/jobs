@@ -36,5 +36,5 @@
 ***G-Fashion招聘***
 
 - [GF0001 前端工程师 - React](https://github.com/gtalent-community/jobs/tree/master/jobs/Front_End_Engineer_React_GF0001.md)
-- [GF0002 高级级前端工程师 - React](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Front_End_Engineer_React_GF0002.md)
+- [GF0002 高级前端工程师 - React](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Front_End_Engineer_React_GF0002.md)
 - [GF0003 ⾼级QA⼯程师](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_QA_Engineer_GF0003.md)
