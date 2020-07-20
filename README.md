@@ -17,6 +17,8 @@
    
 **请勿将任何个人信息发给任何个人！！！！**    
 只有当GTV/G-Fashion等决定录用你时，才会告知你要把真实个人信息发到哪里。谢谢合作！！
+   
+***G-TV招聘***   
          
 - [GTV0001 Senior Front End Engineer/資深前端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Front_End_Engineer_GTV0001.md)   
 - [GTV0002 Senior Back-End Engineer/資深后端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Back_End_Engineer_GTV0002.md)  
@@ -30,7 +32,6 @@
 
 - [GM0001 Back End Engineer Elixir/Phoenix](https://github.com/gtalent-community/jobs/tree/master/jobs/Back_End_Engineer_Elixir_Phoenix_GM0001.md)
 - [GM0002 Front End Engineer JavaScript](https://github.com/gtalent-community/jobs/tree/master/jobs/Front_End_Engineer_JavaScript_GM0002.md)
-<<<<<<< HEAD
 
 ***G-Fashion招聘***
 
