@@ -18,10 +18,12 @@
 **请勿将任何个人信息发给任何个人！！！！**   
 只有当GTV决定录用你时，才会告知你要把真实个人信息发到哪里。谢谢合作！！
          
-- [GTV0001 Senior Front End Engineer/資深前端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Front_End_EngineerGTV0001.md)   
-- [GTV0002 Senior Back-End Engineer/資深后端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Back_End_EngineerGTV0002.md)  
-- [GTV0003 Product Manager/產品經理](https://github.com/gtalent-community/jobs/tree/master/jobs/Product_ManagerGTV0003.md)  
-- [GTV0004 Senior UI&UX designer/资深 UI&UX 设计师](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_UIUX_designerGTV0004.md)  
+- [GTV0001 Senior Front End Engineer/資深前端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Front_End_Engineer_GTV0001.md)   
+- [GTV0002 Senior Back-End Engineer/資深后端工程師](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_Back_End_Engineer_GTV0002.md)  
+- [GTV0003 Product Manager/產品經理](https://github.com/gtalent-community/jobs/tree/master/jobs/Product_Manager_GTV0003.md)  
+- [GTV0004 Senior UI&UX designer/资深 UI&UX 设计师](https://github.com/gtalent-community/jobs/tree/master/jobs/Senior_UIUX_designer_GTV0004.md)  
 - [GTV0005 WEB security engineer｜Web安全⼯程师](https://github.com/gtalent-community/jobs/tree/master/jobs/WEB_Secturity_Engineer_GTV0005.md)  
 - [GTV0005 Anti-virus engineer｜反病毒⼯程师](https://github.com/gtalent-community/jobs/tree/master/jobs/WEB_Anti_virus_Engineer_GTV0005.md)  
 - [GTV0006 IOS Mobile Engineer | IOS移動端⼯程師](https://github.com/gtalent-community/jobs/tree/master/jobs/IOS_Mobile_Engineer_GTV0006.md)  
+- [GM0001 Back End Engineer Elixir/Phoenix](https://github.com/gtalent-community/jobs/tree/master/jobs/Back_End_Engineer_Elixir_Phoenix_GM0001.md)
+- [GM0002 Front End Engineer JavaScript](https://github.com/gtalent-community/jobs/tree/master/jobs/Front_End_Engineer_JavaScript_GM0002.md)
