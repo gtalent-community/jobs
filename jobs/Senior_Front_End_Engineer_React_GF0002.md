@@ -1,4 +1,4 @@
-<h3 align="center">高级级前端工程师 - React</h3>
+<h3 align="center">高级前端工程师 - React</h3>
 <p align="center">(GF0002)</p>
   
 先决条件:
